@@ -1,0 +1,59 @@
+{
+    "name": "Adigami",
+    "description": "Adigami is a web analytics and search marketing company. We have developed a robust analytics platform for   evaluating and improving online marketing efforts. Our product can be used by individual business owners,   marketing departments, and advertis...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/35-adigami.jpg",
+    "tags": [
+        "aggregation",
+        "analysis",
+        "api lifeycle",
+        "api service provider",
+        "have api",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/adigami\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Adigami",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/35-adigami.jpg",
+            "humanURL": "http:\/\/www.adigami.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.adigami.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.adigami.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/adigami"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/adigami"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/adigami"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/adigami"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.adigami.com"
+        }
+    ]
+}
